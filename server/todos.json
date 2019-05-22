@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Read a book",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "name": "Eat dinner",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "name": "Walk with the dog",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "name": "Watch a movie",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "name": "Learn Back-End",
+    "completed": true
+  }
+]
